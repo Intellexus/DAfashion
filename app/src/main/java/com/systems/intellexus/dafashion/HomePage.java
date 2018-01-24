@@ -7,6 +7,7 @@ public class HomePage extends AppCompatActivity {
 
     String connect;
     String abc;
+    String xy;
 
 
 
