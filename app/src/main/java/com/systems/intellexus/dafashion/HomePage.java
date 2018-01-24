@@ -2,7 +2,6 @@ package com.systems.intellexus.dafashion;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Toast;
 
 public class HomePage extends AppCompatActivity {
 
@@ -24,5 +23,15 @@ public class HomePage extends AppCompatActivity {
 
     private void functionprint1() {
         Toast.makeText(this, "works at both side", Toast.LENGTH_SHORT).show();
+
+
+        functionprint();
+
+
+    }
+
+    private void functionprint() {
+
+        Toast.makeText(this, "function works", Toast.LENGTH_SHORT).show();
     }
 }
