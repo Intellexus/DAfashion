@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class HomePage extends AppCompatActivity {
 
+    String connect;
+    String abc;
 
 
 
