@@ -17,7 +17,7 @@
         android:layout_below="@+id/editTextPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="42dp"
-        android:text="Sign UP" />
+        android:text="Sign UP Activity" />
 
     <EditText
         android:id="@+id/editTextmailID"
