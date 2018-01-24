@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929266165263",
+    "firebase_url": "https://dafashion-5303e.firebaseio.com",
+    "project_id": "dafashion-5303e",
+    "storage_bucket": "dafashion-5303e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929266165263:android:ea4aa403c4fbee8d",
+        "android_client_info": {
+          "package_name": "com.systems.intellexus.dafashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929266165263-dn45ceenunrt8qibknobhauvq5fg3gd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.systems.intellexus.dafashion",
+            "certificate_hash": "bf54f89e8324f464f71d127a1bab266d06387b51"
+          }
+        },
+        {
+          "client_id": "929266165263-3tudqoimvvqeeqe6mu1vdskef0u5fhu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNZb2puaPmllGJXs5zqJ5dMPnIdio3fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929266165263-3tudqoimvvqeeqe6mu1vdskef0u5fhu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
